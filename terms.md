@@ -21,7 +21,7 @@ Violation of any of the terms below will result in the termination of your Accou
 4. All "unlimited" and "lifetime" plans are only valid for the lifetime of the plan in question.
 
 ### C. Cancellation and Termination
-1. You are solely responsible for properly canceling your account. In order to cancel your account you must email <a href="mailto:kojapagoda@gmail.com">kojapagoda@gmail.com</a> with your cancellation request.
+1. You are solely responsible for properly canceling your account. In order to cancel your account you must email <a href="mailto:support@vectormc.net">support@vectormc.net</a> with your cancellation request.
 2. All of your Content will be immediately deleted from the Service upon cancellation. This information can not be recovered once your account is cancelled.
 3. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
 4. VectorMC, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other VectorMC service, for any reason at any time.
