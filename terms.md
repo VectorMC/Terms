@@ -1,5 +1,6 @@
-# VectorMC's Terms Of Service
-[_v1.0_]
+# Terms of service
+### VectorMC's Terms & Conditions
+[_v1.0_] Last Updated: 8th of April 2019 <br>
 **Terms Of Service subject to change**
 
 By using any services of VectorMC, you are agreeing to be bound by the following terms and conditions.
